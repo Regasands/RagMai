@@ -1,0 +1,12 @@
+
+#  pip install langchain langchain-gigachat chromadb pypdf python-docx
+# pip install python-dotenv
+
+# Установка и запуск
+# pip install chroma-dashboard
+# chroma-dashboard --path ./vector_stores/chroma_db
+# # Установите IPython
+# pip install ipython
+
+# # Запустите консоль с поддержкой LaTeX
+# ipython --matplotlib

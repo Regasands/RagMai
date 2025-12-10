@@ -10,3 +10,5 @@
 
 # # Запустите консоль с поддержкой LaTeX
 # ipython --matplotlib
+# pip install -U langchain-chroma
+# pip install "langchain-core<0.4" "langchain-text-splitters<2.0" --force-reinstall

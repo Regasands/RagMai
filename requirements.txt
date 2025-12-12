@@ -6,3 +6,4 @@ langchain-neo4j==0.5.0
 neo4j>=5.25.0,<6.0.0
 pypdf==6.0.0
 python-dotenv==1.0.1
+nltk

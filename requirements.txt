@@ -1,14 +1,8 @@
-
-#  pip install langchain langchain-gigachat chromadb pypdf python-docx
-# pip install python-dotenv
-
-# Установка и запуск
-# pip install chroma-dashboard
-# chroma-dashboard --path ./vector_stores/chroma_db
-# # Установите IPython
-# pip install ipython
-
-# # Запустите консоль с поддержкой LaTeX
-# ipython --matplotlib
-# pip install -U langchain-chroma
-# pip install "langchain-core<0.4" "langchain-text-splitters<2.0" --force-reinstall
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-core
+langchain-gigachat==0.3.12
+langchain-neo4j==0.5.0
+neo4j>=5.25.0,<6.0.0
+pypdf==6.0.0
+python-dotenv==1.0.1
